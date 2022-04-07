@@ -15,7 +15,7 @@ html {
 }
 
 .purple {
-  color: var(--imp-text-color) !important;
+  color: var(--imp-text-color) !important; 
 }
 
 button:focus {
@@ -281,7 +281,7 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #cfa416;
 }
 
 .Typewriter__wrapper {
