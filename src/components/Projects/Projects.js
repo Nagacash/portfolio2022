@@ -48,8 +48,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Streamii.de"
-              description="My Music Streaming App called Streamii. It is a secure file storage, smart workstation where artist, fans, costumers and content meet each other. NFC Filesharing !! "
-              link="https://streamii.de"
+              description="My Music clothingline called Naga Apparel !! "
+              link="https://naga-clothing.com"
             />
           </Col>
 
